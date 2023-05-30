@@ -1,0 +1,11 @@
+posição : 10 Palavra: para
+posição : 100 Palavra: coisa
+posição : 1000 Palavra: naquele
+
+                          Palavras  Quantidade
+0       posição : 10 Palavra: para         646
+1     posição : 100 Palavra: coisa          65
+2  posição : 1000 Palavra: naquele           6
+
+Quantidade de palavras: 50802
+Quantidade de palavras distintas 6111
